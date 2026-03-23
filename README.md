@@ -22,6 +22,22 @@ Think of it as:
 
 ---
 
+### What is Basicality Island?
+**Basicality** is a minecraft java & bedrock server where it was made by NoKnow, Xenyhen, Keoni (me!), and Augusto! The world is heavily amplified for more creativity and more silly adventures and rp'ing in the server.  
+
+Think of it as:
+- A public amplified minecraft servers that has 2 versions of the server. the private and the public.
+
+---
+
+
+### What is StarArchetype?
+**StarArchetype** is a malware type of trojan but it doesnt really affect your computer but it just spams YouAreAIdiot and tons of shiba inu pics, it is written in C++ and i am its only developer.  
+
+Think of it as:
+- kabosu memorial combined with trojan horse.
+
+---
 ### contactos
 - 💬 **Discord:** `insanityforeternity`
 - 💬 **Bluesky:** `@galaxyversee.bsky.social`
